@@ -3,9 +3,5 @@ title: DATA SCIENCE for Marketing Science
 # #description:
 show_downloads: false
 theme: jekyll-theme-minimal
-exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+
 
