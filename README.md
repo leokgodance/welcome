@@ -1,6 +1,4 @@
 # Who We Are
-At the heart of the MSci-DS team is our mission to pioneer change in advertising behaviors on TikTok by leveraging in-depth data science research in quantitative marketing. We're dedicated to empowering stakeholders to make informed decisions through evidence-based, scientific methodologies.
-(pictures? photos?)
 
 # What We Do
 ### Quantitative Market Research
